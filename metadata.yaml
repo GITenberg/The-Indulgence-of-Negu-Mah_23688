@@ -1,0 +1,29 @@
+_repo: The-Indulgence-of-Negu-Mah_23688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arthur, Robert
+    birthdate: 1909
+    deathdate: 1969
+    gutenberg_agent_id: '25995'
+    url: http://www.gutenberg.org/2009/agents/25995
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Arthur,_Jr.
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Indulgence of Negu Mah
+url: http://www.gutenberg.org/ebooks/23688
